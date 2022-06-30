@@ -1,0 +1,3 @@
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 📫 How to reach me: icaro.gabson123@gmail.com
+- 📚 TI technical course at IFMA and Currently graduating in Computer Science at IFMA.
